@@ -11,7 +11,7 @@ public class problem {
 		long totalsecond= time/1000;
 		second=totalsecond%60;
 		int x= -2147483648 - 2;
-		System.out.println("ahmed othman");
+		System.out.println("ahmed othman"); //ahaadfd fghhfg
 		
 		System.out.println(x);
 	}
